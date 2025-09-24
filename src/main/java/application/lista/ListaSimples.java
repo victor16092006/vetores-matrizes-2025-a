@@ -1,5 +1,6 @@
 package application.lista;
 
+
 public class ListaSimples {
     private Node head;
     private int tamanho;
